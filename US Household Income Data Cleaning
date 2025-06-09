@@ -1,4 +1,4 @@
-# US Household Income Data Cleaningus_household_income
+# US Household Income Data Cleaning of us_household_income
 
 SELECT *
 FROM us_project.us_household_income;
